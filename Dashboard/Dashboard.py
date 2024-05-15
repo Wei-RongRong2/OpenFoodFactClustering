@@ -79,7 +79,7 @@ if clustering_method == "DBSCAN":
 
 # Loading selected dataset and centroid data
 file_path = data_files[clustering_method][plot_type][tuning_phase]
-data = load_data(file_path)
+data = load_data(f"Dashboard/{file_path}")
 centroid_path = centroid_files[clustering_method][tuning_phase]
 centroids = load_data(centroid_path)
 
