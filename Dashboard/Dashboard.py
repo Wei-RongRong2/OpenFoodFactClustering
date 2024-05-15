@@ -65,7 +65,7 @@ centroid_files = {
 }
 
 # Load performance data
-performance_data = load_data("cluster_performance.csv")
+performance_data = load_data("Dashboard/cluster_performance.csv")
 
 # Sidebar interaction for method, type of plot, and tuning phase
 clustering_method = st.sidebar.selectbox("Select Clustering Method", list(data_files.keys()))
