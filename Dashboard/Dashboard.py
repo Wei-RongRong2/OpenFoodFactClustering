@@ -81,7 +81,7 @@ if clustering_method == "DBSCAN":
 file_path = data_files[clustering_method][plot_type][tuning_phase]
 data = load_data(f"Dashboard/{file_path}")
 centroid_path = centroid_files[clustering_method][tuning_phase]
-centroids = load_data(centroid_path)
+centroids = load_data(f"Dashboard/{centroid_path}")
 
 # Optionally filter out outliers for DBSCAN
 if clustering_method == "DBSCAN" and not include_outliers:
