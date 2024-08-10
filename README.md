@@ -129,6 +129,10 @@ Contributions are welcome! Please fork this repository, make your changes in a n
 4. Push to the branch (`git push origin feature-name`)
 5. Create a new Pull Request
 
+## Acknowledgments
+
+This project was developed in collaboration with Lim Jo Sun(https://github.com/limjosun). We worked together on the clustering analysis, dashboard development, and project documentation.
+
 ## License
 
 This project is part of an academic course and is intended for educational purposes only. It may contain references to copyrighted materials, and the use of such materials is strictly for academic use. Please consult your instructor or institution for guidance on sharing or distributing this work.
