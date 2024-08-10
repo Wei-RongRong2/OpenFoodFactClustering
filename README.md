@@ -141,9 +141,8 @@ For more details, see the [LICENSE](./LICENSE.txt) file.
 
 ## Contact
 
-Created by [Tay Wei Rong](https://github.com/Wei-RongRong2) - feel free to contact me!
-<br>For any inquiries, you can also reach out to:
-- **Lim Jo Sun** - limjosun030514@gmail.com
+Created by [Tay Wei Rong](https://github.com/Wei-RongRong2) - feel free to contact me!  
+For any inquiries, you can also reach out to [Lim Jo Sun](https://github.com/limjosun)
 
 ## References
 
