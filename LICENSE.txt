@@ -24,6 +24,6 @@ SOFTWARE.
 
 **Educational Disclaimer**
 
-This project was created as part of a course at [Your School/University Name] and is intended for educational purposes only. It may include copyrighted material that is used solely for academic study and research.
+This project was created as part of a course at Tunku Abdul Rahman University of Management and Technology (TAR UMT) and is intended for educational purposes only. It may include copyrighted material that is used solely for academic study and research.
 
-For more information, please contact [Your Contact Information].
+For more information, please contact weirong9611@gmail.com (Tay Wei Rong).
