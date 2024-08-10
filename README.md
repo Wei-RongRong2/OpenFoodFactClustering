@@ -111,11 +111,13 @@ The project utilizes the Open Food Facts dataset and applies K-Means, Fuzzy C-Me
 
 ## Results
 
-The clustering analysis identified distinct clusters within the dataset, providing insights into dietary trends and nutritional patterns. Below are the key findings:
+The clustering analysis aimed to uncover distinct patterns within the dataset, though some challenges were encountered due to the complexity of the data. Here are the key findings:
 
-- **K-Means:** Four distinct clusters were identified, showing robustness in initial settings.
-- **Fuzzy C-Means:** Improved cluster coherence and separation post-tuning.
-- **DBSCAN:** Significant improvement in cluster definition after tuning.
+- **K-Means:** Four clusters were identified, but there was notable overlap, which may indicate the inherent complexity of the data.
+- **Fuzzy C-Means:** Clustering coherence and separation improved after tuning, yet some overlap persisted.
+- **DBSCAN:** Tuning led to better-defined clusters, although overlap remained a challenge.
+
+These results suggest that while clustering algorithms provided some insights, the complexity of the data presented difficulties in achieving clear, non-overlapping clusters. Further refinement or alternative approaches may be needed to enhance cluster distinctiveness.
 
 For a more detailed explanation of these steps and results, refer to the full report: [Report - Clustering Food Products based on Nutritional Attributes.pdf](./Report%20-%20Clustering%20Food%20Products%20based%20on%20Nutritional%20Attributes.pdf).
 
