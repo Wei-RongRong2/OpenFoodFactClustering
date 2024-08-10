@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 TAY WEI RONG
+Copyright (c) 2024 TAY WEI RONG and LIM JO SUN
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -26,4 +26,5 @@ SOFTWARE.
 
 This project was created as part of a course at Tunku Abdul Rahman University of Management and Technology (TAR UMT) and is intended for educational purposes only. It may include copyrighted material that is used solely for academic study and research.
 
-For more information, please contact weirong9611@gmail.com (Tay Wei Rong).
+For more information, please contact:
+- Tay Wei Rong: weirong9611@gmail.com
