@@ -131,7 +131,7 @@ Contributions are welcome! Please fork this repository, make your changes in a n
 
 ## Acknowledgments
 
-This project was developed in collaboration with Lim Jo Sun(https://github.com/limjosun). We worked together on the clustering analysis, dashboard development, and project documentation.
+This project was developed in collaboration with [Lim Jo Sun](https://github.com/limjosun). We worked together on the clustering analysis, dashboard development, and project documentation.
 
 ## License
 
