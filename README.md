@@ -131,7 +131,7 @@ Contributions are welcome! Please fork this repository, make your changes in a n
 
 ## Acknowledgments
 
-This project was developed in collaboration with [Lim Jo Sun](https://github.com/limjosun). We worked together on the clustering analysis, dashboard development, and project documentation.
+This project was developed in collaboration with [limjosun](https://github.com/limjosun). We worked together on the clustering analysis, dashboard development, and project documentation.
 
 ## License
 
@@ -141,8 +141,8 @@ For more details, see the [LICENSE](./LICENSE.txt) file.
 
 ## Contact
 
-Created by [Tay Wei Rong](https://github.com/Wei-RongRong2) - feel free to contact me!  
-For any inquiries, you can also reach out to [Lim Jo Sun](https://github.com/limjosun)
+Created by [Wei-RongRong2](https://github.com/Wei-RongRong2) - feel free to contact me!  
+For any inquiries, you can also reach out to [limjosun](https://github.com/limjosun)
 
 ## References
 
